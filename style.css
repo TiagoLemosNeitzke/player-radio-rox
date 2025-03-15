@@ -28,3 +28,14 @@ body {
 .volume-control {
     margin-top: 10px;
 }
+
+.disclaimer {
+    font-size: 0.9em;
+    color: #f1a707;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.disclaimer a {
+    color: #0cec7c;
+}
