@@ -8,8 +8,8 @@
   "theme_color": "#F7C100",
   "icons": [
     {
-      "src": "assets/icon.webp",
-      "sizes": "71x71"
+      "src": "assets/icon.png",
+      "sizes": "180x180"
     }
   ]
 }
