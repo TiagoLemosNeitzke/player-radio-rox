@@ -1,0 +1,21 @@
+{
+  "name": "Rádio Rox",
+  "short_name": "RádioRox",
+  "description": "A melhor rádio do Brasil, 24h tocando seu som!",
+  "start_url": "https://myplayerrox.netlify.app/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#F7C100",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
