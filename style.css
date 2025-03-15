@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #222;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.player-container {
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.controls button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.controls img {
+    width: 50px;
+}
+
+.volume-control {
+    margin-top: 10px;
+}
